@@ -12,3 +12,4 @@
 12. 11-lists lists all files in the specified directories
 13. 12-file_type print the file type of the file iamafile
 14. 13-symbolic_link creates symbolic link to /bin/ls
+15. 14-copy_html copies all html files from cwd to parent directory if they don't exist
