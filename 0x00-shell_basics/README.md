@@ -11,3 +11,4 @@
 11. 10-back changes the working directory to the previous one
 12. 11-lists lists all files in the specified directories
 13. 12-file_type print the file type of the file iamafile
+14. 13-symbolic_link creates symbolic link to /bin/ls
