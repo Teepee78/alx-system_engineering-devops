@@ -16,3 +16,4 @@
 16. 100-lets_move moves all files beginning with uppercase lettersto /tmp/u
 17. 101-clean_emacs deletes all files ending in ~
 18. 102-tree creates multiple directories
+19. 103-commas lists all files according to project 18's requirements
