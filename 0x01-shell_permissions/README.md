@@ -13,3 +13,4 @@
 12. 12-directory_permissions creates directory with 751 permisions
 13. 13-change_group changes group ownership of hello to school
 14. 100-change_owner_and_group changes owner and group owner
+15. 101-symbolic_link_permissions changes owner and group owner of symbolic link
