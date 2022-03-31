@@ -7,3 +7,4 @@
 6. 6-multiple_permissions adds multiple permissions to hello file
 7. 7-everybody adds execute permision for everybody to hello file
 8. 8-James_Bond sets given permissions for file hello
+9. 9-John_Doe sets mode of the file hello
