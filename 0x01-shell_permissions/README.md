@@ -6,3 +6,4 @@
 5. 5-execute adds execute permission to the owner of the file hello
 6. 6-multiple_permissions adds multiple permissions to hello file
 7. 7-everybody adds execute permision for everybody to hello file
+8. 8-James_Bond sets given permissions for file hello
