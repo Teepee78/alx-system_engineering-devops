@@ -9,3 +9,4 @@
 8. 8-James_Bond sets given permissions for file hello
 9. 9-John_Doe sets mode of the file hello
 10. 10-mirror_permissions mirrors permissions of given file
+11. 11-directories_permissions adds execute permission to subdirectories
