@@ -10,3 +10,4 @@
 9. 9-John_Doe sets mode of the file hello
 10. 10-mirror_permissions mirrors permissions of given file
 11. 11-directories_permissions adds execute permission to subdirectories
+12. 12-directory_permissions creates directory with 751 permisions
