@@ -21,3 +21,4 @@
 20. 20-hiago removes all letters c and C from input
 21. 21-reverse reverses input
 22. 22-users_and_homes displays files and directiories sorted by users
+23. 100-empty_casks finds all empty file and directories
