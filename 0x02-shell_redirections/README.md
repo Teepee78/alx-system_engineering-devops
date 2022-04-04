@@ -9,3 +9,4 @@
 8. 8-cwd_state writes into file
 9. 9-duplicate_last_line duplicates the last line of iacta
 10. 10-no_more_js deletes all javascript files
+11. 11-directories counts the number of directories and subdirectories in cwd
