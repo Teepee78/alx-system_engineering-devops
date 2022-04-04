@@ -11,3 +11,4 @@
 10. 10-no_more_js deletes all javascript files
 11. 11-directories counts the number of directories and subdirectories in cwd
 12. 12-newest_files display the 10 newest files cwd
+13. 13-unique displays unique words in a list of words
