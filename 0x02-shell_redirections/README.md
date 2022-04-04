@@ -20,3 +20,4 @@
 19. 19-AZ Replace predefined characters
 20. 20-hiago removes all letters c and C from input
 21. 21-reverse reverses input
+22. 22-users_and_homes displays files and directiories sorted by users
