@@ -7,3 +7,4 @@
 6. 6-third_line displays the third line of the file iacta
 7. 7-file create file containing "Best SChool" text
 8. 8-cwd_state writes into file
+9. 9-duplicate_last_line duplicates the last line of iacta
