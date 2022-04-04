@@ -24,3 +24,4 @@
 23. 100-empty_casks finds all empty file and directories
 24. 101-gifs lists all .gif files
 25. 102-acrostic decodes acrostics
+26. 103-the_biggest_fan tas 26
