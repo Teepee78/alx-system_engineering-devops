@@ -12,3 +12,4 @@
 11. 11-directories counts the number of directories and subdirectories in cwd
 12. 12-newest_files display the 10 newest files cwd
 13. 13-unique displays unique words in a list of words
+14. 14-findthatword diplays lines containing the pattern "root"
