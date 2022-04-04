@@ -17,4 +17,5 @@
 16. 16-whatsnext Display lines containing the pattern “root” and 3 lines after them in the file
 17. 17-hidethisword Display all the lines in the file /etc/passwd that do not contain the pattern “bin"
 18. 18-letteronly displays all lines of file beginning with a letter
-19. Replace predefined characters
+19. 19-AZ Replace predefined characters
+20. 20-hiago removes all letters c and C from input
