@@ -4,4 +4,5 @@
 3. 3-paths count number of directories in PATH
 4. 4-global_variables lists environment variables
 5. 5-local_variables lists all variables and functions
-6. 6-create_local_variable creates new variable
+6. 6-create_local_variable creates new local variable
+7. 7-create_global_variable creates new global variable
