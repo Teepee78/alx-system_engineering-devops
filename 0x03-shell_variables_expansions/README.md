@@ -12,3 +12,4 @@
 11. 11-binary_to_decimal converts binary to decimal
 12. 12-combinations prints combination of letters
 13. 13-print_float prints float number
+14. 100-decimal_to_hexadecimal converts decimal to hexadecimal
