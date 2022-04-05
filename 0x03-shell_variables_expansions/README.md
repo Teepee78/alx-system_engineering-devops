@@ -10,3 +10,4 @@
 9. 9-divide_and_rule prints the result of division
 10. 10-love_exponent_breath prints the result of exponention
 11. 11-binary_to_decimal converts binary to decimal
+12. 12-combinations prints combination of letters
