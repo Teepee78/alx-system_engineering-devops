@@ -13,3 +13,4 @@
 12. 12-combinations prints combination of letters
 13. 13-print_float prints float number
 14. 100-decimal_to_hexadecimal converts decimal to hexadecimal
+15. 101-rot13 encodes and decodes text using rot13
