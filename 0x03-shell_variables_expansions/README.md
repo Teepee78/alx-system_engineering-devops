@@ -6,3 +6,4 @@
 5. 5-local_variables lists all variables and functions
 6. 6-create_local_variable creates new local variable
 7. 7-create_global_variable creates new global variable
+8. 8-true_knowledge prints the result of arithmetic expression
