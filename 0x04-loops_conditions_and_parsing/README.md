@@ -77,3 +77,7 @@ This directory contains files for the loops, conditions and parsing project.
 ### 100-read_and_cut
 
 	Parses content of /etc/passwd file
+
+### 101-tell_the_story_of_passwd
+
+	Displays the content of the file /etc/passwd, using the while loop + IFS.
