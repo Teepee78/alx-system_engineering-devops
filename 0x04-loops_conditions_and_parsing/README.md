@@ -73,3 +73,7 @@ This directory contains files for the loops, conditions and parsing project.
 	* Displays Fizz when the number is multiple of 3
 	* Displays Buzz when the number is a multiple of 5
 	* Otherwise, displays the number
+
+### 100-read_and_cut
+
+	Parses content of /etc/passwd file
