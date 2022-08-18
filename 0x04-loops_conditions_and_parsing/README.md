@@ -64,3 +64,12 @@ This directory contains files for the loops, conditions and parsing project.
 		* if the file is a regular file: school is a regular file
 		* if the file is not a regular file: (nothing)
 	* if the file does not exist: school file does not exist
+
+### 10-fizzbuzz
+
+	Displays numbers from 1 to 100, In a list format.
+
+	* Displays FizzBuzz when the number is a multiple of 3 and 5
+	* Displays Fizz when the number is multiple of 3
+	* Displays Buzz when the number is a multiple of 5
+	* Otherwise, displays the number
