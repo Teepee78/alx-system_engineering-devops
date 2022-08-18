@@ -13,3 +13,7 @@ Prints Best School 10 times
 ### 2-while_best_school
 
 Prints Best School 10 times
+
+### 3-until_best_school
+
+Prints Best School 10 times
