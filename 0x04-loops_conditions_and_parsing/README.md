@@ -85,3 +85,7 @@ This directory contains files for the loops, conditions and parsing project.
 ### 102-lets_parse_apache_logs
 
 	Displays the IP address and HTTP codes from an Apache log access file
+
+### 103-dig_the-data
+
+	Displays the visitors grouped by IP address and HTTP codes, order greatest to lowest
