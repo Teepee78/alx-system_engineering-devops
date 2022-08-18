@@ -45,3 +45,11 @@ This directory contains files for the loops, conditions and parsing project.
 
 	* displays hours from 0 to 12
 	* displays minutes from 1 to 59
+
+### 8-for_ls
+
+	Displays:
+
+	* The content of the current directory
+	* In a list format
+	* Where only the part of the name after the first dash is displayed
