@@ -17,3 +17,7 @@ Prints Best School 10 times
 ### 3-until_best_school
 
 Prints Best School 10 times
+
+### 4-if_9_say_hi
+
+Displays Best School 10 times, but for the 9th iteration, displays Best School and then Hi on a new line.
