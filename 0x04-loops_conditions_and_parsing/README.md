@@ -81,3 +81,7 @@ This directory contains files for the loops, conditions and parsing project.
 ### 101-tell_the_story_of_passwd
 
 	Displays the content of the file /etc/passwd, using the while loop + IFS.
+
+### 102-lets_parse_apache_logs
+
+	Displays the IP address and HTTP codes from an Apache log access file
