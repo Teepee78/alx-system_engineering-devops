@@ -53,3 +53,14 @@ This directory contains files for the loops, conditions and parsing project.
 	* The content of the current directory
 	* In a list format
 	* Where only the part of the name after the first dash is displayed
+
+### 9-to_file_or_not_to_file
+
+	Gives you information about the school file.
+
+	* if the file exists: school file exists
+		* if the file is empty: school file is empty
+		* if the file is not empty: school file is not empty
+		* if the file is a regular file: school is a regular file
+		* if the file is not a regular file: (nothing)
+	* if the file does not exist: school file does not exist
