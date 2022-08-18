@@ -38,3 +38,10 @@ This directory contains files for the loops, conditions and parsing project.
 	* displays 4 and then bad luck from China for the 4th loop iteration
 	* displays 9 and then bad luck from Japan for the 9th loop iteration
 	* displays 17 and then bad luck from Italy for the 17th loop iteration
+
+### 7-clock
+
+	Displays the time for 12 hours and 59 minutes
+
+	* displays hours from 0 to 12
+	* displays minutes from 1 to 59
