@@ -15,3 +15,7 @@
 ### 3-redirection
 
     Configures a server to redirect to another page
+
+### 4-not_found_page_404
+
+    Configures nginx server to show 404 page
