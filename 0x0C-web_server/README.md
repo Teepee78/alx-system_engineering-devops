@@ -11,3 +11,7 @@
 ### 2-setup_a_domain_name
 
     Domain name
+
+### 3-redirection
+
+    Configures a server to redirect to another page
