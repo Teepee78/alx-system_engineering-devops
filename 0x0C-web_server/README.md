@@ -19,3 +19,7 @@
 ### 4-not_found_page_404
 
     Configures nginx server to show 404 page
+
+### 7-puppet_install_nginx_web_server.pp
+
+    Puppet manifest to configure an nginx server
