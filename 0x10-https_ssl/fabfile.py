@@ -21,7 +21,7 @@ def setup_ssl():
 
     if not run('sudo ln -s /snap/bin/certbot /usr/bin/certbot'):
         return False
-    if not run('certbot certonly --webroot'):
+    if not run('sudo certbot certonly --standalone'):
         return False
     return True
 
