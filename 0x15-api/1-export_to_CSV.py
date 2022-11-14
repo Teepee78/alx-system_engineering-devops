@@ -22,7 +22,6 @@ if __name__ == '__main__':
     with open("{}.csv".format(id), "w") as f:
         employee_writer = csv.DictWriter(
             f, fieldnames=attrs, quoting=csv.QUOTE_ALL)
-        employee_writer.writeheader()
         for task in tasks:
             if task.get("userId") == id:
                 task["username"] = employee_name
