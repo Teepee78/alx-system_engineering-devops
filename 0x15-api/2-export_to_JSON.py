@@ -28,6 +28,5 @@ if __name__ == '__main__':
                 user["task"] = task.get("title")
                 user["completed"] = task.get("completed")
                 user["username"] = employee_name
-                task["username"] = employee_name
                 user_info["{}". format(id)].append(user)
-        json.dump(user_info, f)
+        f.write(json.dumps(user_info))
