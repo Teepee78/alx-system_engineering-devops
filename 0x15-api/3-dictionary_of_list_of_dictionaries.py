@@ -18,15 +18,14 @@ if __name__ == '__main__':
     with open("todo_all_employees.json".format(id), "w") as f:
         for employee in employees:
             id = employee.get("id")
-            user_info = {
-                "{}".format(id): []
-            }
+            task_list = []
             for task in tasks:
                 if task.get("userId") == id:
                     user = {}
                     user["task"] = task.get("title")
                     user["completed"] = task.get("completed")
                     user["username"] = employee.get("username")
-                    user_info["{}". format(id)].append(user)
+                    task_list.append(user)
+            user_info = {"{}".format(id): task_list}
             data.update(user_info)
         f.write(json.dumps(data))
