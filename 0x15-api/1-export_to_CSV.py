@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """
 This module returns information about an employee's TODO list
 and saves it to csv
