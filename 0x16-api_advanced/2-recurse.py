@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-    Returns list of titles of hot articles
+This module returns list of titles of hot articles
 """
 import requests
 
