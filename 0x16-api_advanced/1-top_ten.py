@@ -19,7 +19,6 @@ def top_ten(subreddit):
     hot = requests.get(api_url, headers=headers, allow_redirects=False)
     if hot.status_code != 200:
         print(None)
-        return
     else:
         r = hot.json()
         if "data" in r:
@@ -29,4 +28,3 @@ def top_ten(subreddit):
             return
         for post in posts:
             print(post.get("data").get("title"))
-    print(None)
